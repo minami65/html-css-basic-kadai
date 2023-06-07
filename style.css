@@ -1,6 +1,7 @@
 #top{
   width:800px;
   background-color: #dcc9f4;
+  margin:auto;
   margin-top: 20px;
   margin-bottom: 20px;
   text-align: center;
@@ -14,6 +15,7 @@ p{
   position: relative;
   width:800px;
   height:800px;
+  margin:auto;
   margin-top: 20px;
   margin-bottom: 20px;
   background-color: #ffd9df;
